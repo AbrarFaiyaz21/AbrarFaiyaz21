@@ -1,4 +1,4 @@
-### Hi there 👋
+### Computer Science Graduate (CGPA 3.94, Dean’s List) | Web & Software Developer | PHP, C#, Python | AI & ML Enthusiast
 
 <!--
 **AbrarFaiyaz21/AbrarFaiyaz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
